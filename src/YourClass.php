@@ -1,4 +1,4 @@
-<?php namespace Buonzz\Template;
+<?php namespace Madedwi\WordToPdf;
 
 /**
 *  A sample class
@@ -12,9 +12,9 @@ class YourClass{
 
    /**  @var string $m_SampleProperty define here what this variable is for, do this for every instance variable */
    private $m_SampleProperty = '';
- 
+
   /**
-  * Sample method 
+  * Sample method
   *
   * Always create a corresponding docblock for each method, describing what it is for,
   * this helps the phpdocumentator to properly generator the documentation

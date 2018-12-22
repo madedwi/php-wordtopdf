@@ -11,14 +11,16 @@
     ],
     "type": "project",
     "require": {
-		"php": ">=7.1"
+		"php": ">=7.1",
+        "phpoffice/phpword": "^0.15.0",
+        "mpdf/mpdf": "^7.1"
     },
     "require-dev": {
 		"phpunit/phpunit": "6.*"
     },
     "autoload": {
         "psr-4": {
-            "Buonzz\\Template\\": "src/"
+            "Madedwi\\WordToPdf\\": "src/"
         }
     }
 }
